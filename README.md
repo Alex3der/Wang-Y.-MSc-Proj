@@ -15,11 +15,11 @@ This project requires Python 3.8 and the following Python libraries installed:
 - time
 
 ## Code
-`D455.py`: This is the main file that you would want to run. It initializes the parameters, runs the system, and generates the output.
+`sc223yw.py`: This is the main file that you would want to run. It initializes the parameters, runs the system, and generates the output.
 
 ## Run
 To run the code, navigate to the project directory and type the following command:
-- python D455.py
+- python sc223yw.py
 
 ## How it Works
 The system will initialise an image acquisition window returned by the camera.
